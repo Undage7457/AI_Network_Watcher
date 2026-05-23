@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+venv/
+>>>>>>> a23eb13 (working with test cases)
 env/
 __pycache__/
 *.pyc
